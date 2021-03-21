@@ -20,5 +20,7 @@ slides:
   - microsoft-bob
   - ical
   - atm-affective
+  - netflix
+  - nowadays-computer
 ---
 
